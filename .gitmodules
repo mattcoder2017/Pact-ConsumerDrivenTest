@@ -1,0 +1,3 @@
+[submodule "PactNet.Tests/IntegrationTests/Specification/pact-specification"]
+	path = PactNet.Tests/IntegrationTests/Specification/pact-specification
+	url = https://github.com/bethesque/pact-specification.git
